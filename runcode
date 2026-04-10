@@ -1,0 +1,3 @@
+mvn exec:java -D"exec.mainClass=org.cloudbus.cloudsim.examples.CloudSimExample1"
+mvn exec:java -D"exec.mainClass=org.cloudbus.cloudsim.examples.BatchCloudletExample"
+
